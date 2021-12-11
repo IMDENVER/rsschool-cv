@@ -1,1 +1,1 @@
-https://IMDENVER.github.io/rsschool-cv/
+https://IMDENVER.github.io/rsschool-cv/cv
